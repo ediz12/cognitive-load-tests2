@@ -1,0 +1,38 @@
+{
+    "tr": {
+        "sternberg_intro": [
+            "Siradaki kisimda goreceginiz 6 resimleri aklinizda tutunuz.",
+            "Bunun icin 10 saniyeniz vardir.",
+            "Ardindan size bir ek gorev verilecektir.",
+            "Bu gorevi 30 saniye icinde tamamlamalisiniz.",
+            "Ek gorevi tamamladiktan sonra size tekrar bir resim belirecektir.",
+            "Bu gordugunuz resim, onceki gordugunuz resim listesi icinde",
+            "ise evete (F), degilse hayir (J) tusuna basin."
+        ],
+        "hicks_intro": ["Lutfen ekranda yazan cevabin", "dogru sorusunu bulunuz."],
+        "maze_intro": ["Bir araba garajin yolunu bulamiyor.",
+          "Arabanin garaji bulmasi icin yardim et.",
+          "Hareket etmek için ok/WSAD tuslarini kullanin.",
+        "Oyun baslayinca devamli bosluk tusuna bas."],
+        "start": "Testi Baslat",
+        "timeleft": "Kalan Sure: {0:2.2f}s"
+    },
+    "en": {
+        "sternberg_intro": [
+            "Look at 6 icons and memorize them in the next part.",
+            "You have 10 seconds to memorize.",
+            "After that, you will get an additional task.",
+            "You have to complete this task under 30 seconds.",
+            "After you complete the additional task, an icon will appear again.",
+            "If this icon was in the 6 icon list, press yes (F), if it was not,",
+            "press no (J)."
+        ],
+        "hicks_intro": ["Please find the correct", "problem of the written solution", "on the screen."],
+        "maze_intro": ["This car can not find its way to garage.",
+          "Help the car find the garage.",
+          "Use arrow/WSAD keys to move around.",
+        "Tap spacebar constantly once game starts."],
+      "start": "Start Test",
+      "timeleft": "Time Left: {0:2.2f}s"
+    }
+}
